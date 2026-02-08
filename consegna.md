@@ -24,15 +24,14 @@ Proviamo quindi ad effettuare una chiamata Ajax dall progetto React, per ottener
 
 > ### Bonus
 
-Impostare la struttura del lavoro in maniera da sfruttare la riutailizzabilità dei componenti React e le loro props!
+X Impostare la struttura del lavoro in maniera da sfruttare la riutailizzabilità dei componenti React e le loro props!
 
-Curare l’aspetto estetico della vostra applicazione, quindi gestire le immagini, gestire lo stato di ricerca vuota e altri aspetti di UX
+X Curare l’aspetto estetico della vostra applicazione, quindi gestire le immagini, gestire lo stato di ricerca vuota e altri aspetti di UX
 
- 
+
+X Implementare la ricerca libera che faccia riferimento al nome del film (coinvolge anche le modifiche in backend)
+
 Implementare la pagina Show
-
-Implementare la ricerca libera che faccia riferimento al nome del film (coinvolge anche le modifiche in backend)
-
 
 MILESTONE 4
  
