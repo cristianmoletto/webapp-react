@@ -33,8 +33,8 @@ X Implementare la ricerca libera che faccia riferimento al nome del film (coinvo
 
 Implementare la pagina Show
 
+
 MILESTONE 4
- 
  
 In ultimo, effettuiamo una chiamata AJAX dalla pagina di dettaglio per ottenere il dettaglio di un singolo film, comprese le sue recensioni
 
